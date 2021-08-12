@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.i("TAG","Message")
         Log.e("TAG","Error Message")
+        Log.d("TAG","Message")
     }
 }
