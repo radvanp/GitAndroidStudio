@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("TAG","Message")
+        Log.e("TAG","Error Message")
     }
 }
